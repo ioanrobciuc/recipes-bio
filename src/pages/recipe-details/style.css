@@ -1,0 +1,21 @@
+#recipe-details {
+  margin: 50px 0;
+}
+#recipe-details .container {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+#recipe-details .container .buttons {
+  display: flex;
+}
+#recipe-details .container .buttons button {}
+#recipe-details .container .buttons button:first-child {
+  margin-right: 12.5px;
+}
+#recipe-details .container .buttons button:last-child {
+  margin-left: 12.5px;
+}
+#recipe-details .container .recipe {
+  margin-top: 50px;
+}

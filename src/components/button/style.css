@@ -1,0 +1,16 @@
+button.button {
+  width: 100%;
+  height: 40px;
+  border: none;
+  color: #ffffff;
+  cursor: pointer;
+}
+button.button.green {
+  background-color: green;
+}
+button.button.blue {
+  background-color: blue;
+}
+button.button.red {
+  background-color: red;
+}

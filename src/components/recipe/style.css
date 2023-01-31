@@ -1,0 +1,42 @@
+.recipe {
+  width: 100%;
+  height: auto;
+  margin-top: 25px;
+  padding: 25px;
+  box-sizing: border-box;
+  border: 1px solid #f5f5f5;
+}
+.recipe:first-of-type {
+  margin-top: 50px;
+}
+.recipe h1 {
+  line-height: 30px;
+  font-weight: 700;
+  font-size: 30px;
+  color: #000005;
+}
+.recipe h2 {
+  line-height: 30px;
+  font-weight: 700;
+  font-size: 30px;
+}
+.recipe h2 a {
+  color: #000005;
+  text-decoration: none;
+}
+.recipe h2 a:hover {
+  text-decoration: underline;
+}
+.recipe img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 100%;
+  margin-top: 12.5px;
+}
+.recipe p {
+  line-height: 20px;
+  margin-top: 12.5px;
+  font-size: 16px;
+  text-align: justify;
+}
